@@ -8,6 +8,8 @@ Some key packages (and their versions) involved to run this code are as follows:
 
 emukit 0.4.8 For more info, see https://github.com/amzn/emukit
 
+botorch 0.12.0 For more info, see https://pypi.org/project/botorch/
+
 pyDOE 0.3.8 For more info, see https://pythonhosted.org/pyDOE/
 
 numpy 1.20.1 For more info, see https://numpy.org/
