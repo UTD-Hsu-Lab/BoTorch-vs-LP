@@ -1,0 +1,5 @@
+To run this code :->
+Just run 6DAckley_UCB_LP_main_script.py 
+
+
+it will for 99 different LHS condition , you can modify it by changing n_runs variable in the main script code.
